@@ -13,7 +13,7 @@ The scripts in this repository have been used in the following projects:
 
 ## **Contact**
 If you have any questions or suggestions, feel free to connect with me:
-- **Portfolio**: [Your Portfolio Link]([https://your-portfolio-link.com](https://sites.google.com/view/bhawakshi-punia/home-projects?authuser=0))
-- **LinkedIn**: [LinkedIn Profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/bhawakshi-punia-110a81298))
+- [Portfolio Link](https://sites.google.com/view/bhawakshi-punia/home-projects?authuser=0)
+- [LinkedIn Profile](https://www.linkedin.com/in/bhawakshi-punia-110a81298)
 
 ---
