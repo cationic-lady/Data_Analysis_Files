@@ -7,6 +7,7 @@ This repository is a collection of files and python scripts designed for various
 The scripts in this repository have been used in the following projects:
 1. **Yoga YouTube Channel Analysis**:
    - Used `video_title_nlp.py` for feature engineering and keyword extraction from video titles.
+   - Read the portfolio blog [here](https://sites.google.com/view/bhawakshi-punia/yoga_youtube?authuser=0)
 
 
 ---
